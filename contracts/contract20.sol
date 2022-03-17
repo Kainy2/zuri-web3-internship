@@ -9,6 +9,6 @@ import "@openzeppelin/contracts/utils/Counters.sol";
 contract first as ERC721  {
     using Counters for Counters.counter;
 
-    constructor () ERC721, Ownable {}
+    constructor () ERC721, Ownable {}   
     
 } 
