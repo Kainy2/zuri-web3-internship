@@ -1,6 +1,6 @@
-# Repository for the Zuri solidity internship
+# Hosted-link:
+Testnet Address:
 
-All tasks given are in their corresponding branches
 
 # Basic Sample Hardhat Project
 
