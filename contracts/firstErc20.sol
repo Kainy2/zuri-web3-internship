@@ -17,7 +17,7 @@ contract FirstERC20 is ERC20, Ownable {
     }
 
     function buyTokens (address receiver) public payable{
-        uint256 total = msg.value/rate;
+        uint256 total = msg.value * rate;
         _mint(receiver, total);
     }
 }

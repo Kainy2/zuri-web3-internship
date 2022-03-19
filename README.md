@@ -1,5 +1,5 @@
 # Erc721 address: 0xd52a4de055ca8da92a60a9e00af48aaaea684dbb
-# Erc20 address: 0x932a40e9216b63a9935656632c6f17deded3b9a4
+# Erc20 address: 0x09de74a3a2686c21f9357b6e8d1d8c4f9caab95e
 # Im
 # {
                name : "My fist NFT"
