@@ -1,4 +1,4 @@
-# Staking token in staking and rewards file in ./Staking.sol
+# Staking token in staking and rewards file in file ./Staking.sol
 
 # Basic Sample Hardhat Project
 
