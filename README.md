@@ -1,6 +1,4 @@
-# Repository for the Zuri solidity internship
-
-All tasks given are in their corresponding branches
+# Staking token in staking and rewards file in file ./Staking.sol
 
 # Basic Sample Hardhat Project
 
